@@ -38,7 +38,7 @@ Even though this method is now outdated and patched, it serves as a demonstratio
 
 ## 📞 Interested in next-gen detections?
 
-> 💬 DM me on Discord: `@yourtaghere`
+> 💬 DM me on Discord: `@poisskail`
 
 I provide **private FiveM detections** & full anti-cheat dashboards for serious developers and servers only.
 
