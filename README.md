@@ -5,6 +5,19 @@
 
 ---
 
+## ❗ Why is this public?
+
+This version is now patched by cheat developers and doesn't work anymore.  
+I’m releasing it to **showcase my work** and promote the **new undetected detection methods** I’ve developed.
+
+✅ **My current detections** include:
+- ⚔️ Advanced Susano V3 detection (private)
+- 🎯 Many more exclusive detections
+
+💌 Contant : Discord : @poisskail or : https://discord.gg/qsYAkdN43w
+
+---
+
 ## 🔍 What is this?
 
 This script was designed to detect **Susano**, one of the most widespread FiveM cheats.  
@@ -20,18 +33,6 @@ Even though this method is now outdated and patched, it serves as a demonstratio
 - Clean codebase for educational or historical review
 - Obsolete method, use at your own risk
 
----
-
-## ❗ Why is this public?
-
-This version is now patched by cheat developers and doesn't work anymore.  
-I’m releasing it to **showcase my work** and promote the **new undetected detection methods** I’ve developed.
-
-✅ **My current detections** include:
-- ⚔️ Advanced Susano V3 detection (private)
-- 🎯 Anti Aimbot & Anti Silent Aim (DMA resistant)
-- 👁️ Overlay & External Cheat Detection
-- 🧠 Beta Mode Lock (forces beta client – disables 99% of cheats)
 
 ---
 
